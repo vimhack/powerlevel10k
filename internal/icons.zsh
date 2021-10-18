@@ -495,7 +495,7 @@ function _p9k_init_icons() {
         VCS_REMOTE_BRANCH_ICON         '\uE728 '              # 
         VCS_LOADING_ICON               ''
         #VCS_GIT_ICON                   '\uF1D3 '              # 
-        VCS_GIT_ICON                   '\uf296'               # 
+        VCS_GIT_ICON                   '\uf296 '              # 
         #VCS_GIT_GITHUB_ICON            '\uF113 '              # 
         VCS_GIT_GITHUB_ICON            '\ue709'               # 
         VCS_GIT_BITBUCKET_ICON         '\uE703 '              # 
