@@ -444,7 +444,8 @@ function _p9k_init_icons() {
         MULTILINE_FIRST_PROMPT_PREFIX  '\u256D\U2500'         # ╭─
         MULTILINE_NEWLINE_PROMPT_PREFIX '\u251C\U2500'        # ├─
         MULTILINE_LAST_PROMPT_PREFIX   '\u2570\U2500 '        # ╰─
-        APPLE_ICON                     '\uF179'               # 
+        #APPLE_ICON                     '\uF179'               # 
+        APPLE_ICON                     '\ue711'               # 
         WINDOWS_ICON                   '\uF17A'$s             # 
         FREEBSD_ICON                   '\UF30C '              # 
         ANDROID_ICON                   '\uF17B'               # 
@@ -493,18 +494,22 @@ function _p9k_init_icons() {
         VCS_BRANCH_ICON                '\uF126 '              # 
         VCS_REMOTE_BRANCH_ICON         '\uE728 '              # 
         VCS_LOADING_ICON               ''
-        VCS_GIT_ICON                   '\uF1D3 '              # 
-        VCS_GIT_GITHUB_ICON            '\uF113 '              # 
+        #VCS_GIT_ICON                   '\uF1D3 '              # 
+        VCS_GIT_ICON                   '\uf296'               # 
+        #VCS_GIT_GITHUB_ICON            '\uF113 '              # 
+        VCS_GIT_GITHUB_ICON            '\ue709'               # 
         VCS_GIT_BITBUCKET_ICON         '\uE703 '              # 
         VCS_GIT_GITLAB_ICON            '\uF296 '              # 
         VCS_HG_ICON                    '\uF0C3 '              # 
         VCS_SVN_ICON                   '\uE72D'$q             # 
         RUST_ICON                      '\uE7A8'$q             # 
-        PYTHON_ICON                    '\UE73C '              # 
+        #PYTHON_ICON                    '\UE73C '              # 
+        PYTHON_ICON                    '\UE73C'               # 
         SWIFT_ICON                     '\uE755'               # 
         GO_ICON                        '\uE626'               # 
         GOLANG_ICON                    '\uE626'               # 
-        PUBLIC_IP_ICON                 '\UF0AC'$s             # 
+        #PUBLIC_IP_ICON                 '\UF0AC'$s             # 
+        PUBLIC_IP_ICON                 '\UF0AC'               # 
         LOCK_ICON                      '\UF023'               # 
         NORDVPN_ICON                   '\UF023'               # 
         EXECUTION_TIME_ICON            '\uF252'$s             # 
@@ -513,12 +518,14 @@ function _p9k_init_icons() {
         KUBERNETES_ICON                '\U2388'               # ⎈
         DROPBOX_ICON                   '\UF16B'$s             # 
         DATE_ICON                      '\uF073 '              # 
-        TIME_ICON                      '\uF017 '              # 
+        #TIME_ICON                      '\uF017 '              # 
+        TIME_ICON                      '\uf49b'               # 
         JAVA_ICON                      '\uE738'               # 
         LARAVEL_ICON                   '\ue73f'$q             # 
         RANGER_ICON                    '\uF00b '              # 
         MIDNIGHT_COMMANDER_ICON        'mc'
-        VIM_ICON                       '\uE62B'               # 
+        #VIM_ICON                       '\uE62B'               # 
+        VIM_ICON                       '\ue7c5'               # 
         TERRAFORM_ICON                 '\uF1BB '              # 
         PROXY_ICON                     '\u2194'               # ↔
         DOTNET_ICON                    '\uE77F'               # 
